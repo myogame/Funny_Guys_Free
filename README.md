@@ -7,6 +7,7 @@ Link Github:
 
 Cách sử dụng
 - Tìm và mở scene _FUNNY GUY > Scene > Main_Menu
+  
 Lưu ý:
 - Project sử dụng dụng Unity 6000.2.6f2
 - Để test Multiplay thì các bạn phải tạo tài khoản và id Photon Pun, setup theo hướng dẫn của Photon
